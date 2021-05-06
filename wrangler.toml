@@ -1,0 +1,7 @@
+name = "imagizer-cloudflare-worker"
+type = "javascript"
+
+account_id = ""
+zone_id = ""
+route = ""
+vars = { IMAGIZER_ENDPOINT = "" }
