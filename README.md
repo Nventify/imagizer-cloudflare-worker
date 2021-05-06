@@ -10,6 +10,12 @@ Integrate Imagizer using a Cloudflare worker
 
 This project requires [NodeJS](https://nodejs.org/en/download/) with the NPM package manager.
 
+> Clone this project
+```shell
+git clone git@github.com:Nventify/imagizer-cloudflare-worker.git
+cd imagizer-cloudflare-worker
+````
+
 > Install with NPM
 ```shell
 # Install CloudFlare Wrangler
